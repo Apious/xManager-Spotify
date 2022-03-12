@@ -1652,14 +1652,14 @@
     <!--KOREAN LANGUAGE-->
     <string	name="app_name_17"	translatable="true">xManager</string>
     <string	name="spotify_regular_17"	translatable="true">SPOTIFY (일반)</string>
-    <string	name="spotify_amoled_17"	translatable="true">SPOTIFY (아몰레드/색상별)</string>
+    <string	name="spotify_amoled_17"	translatable="true">SPOTIFY (아몰레드)</string>
     <string	name="installed_17"	translatable="true">설치됨</string>
     <string	name="latest_17"	translatable="true">최근</string>
-    <string	name="versions_17"	translatable="true">버전  </string>
-    <string	name="changelogs_17"	translatable="true">변경사항</string>
+    <string	name="versions_17"	translatable="true">버전</string>
+    <string	name="changelogs_17"	translatable="true">변경 사항</string>
     <string	name="manager_tools_17"	translatable="true">관리 도구</string>
 	<string	name="device_cpu_17"	translatable="true">CPU/ARCH</string>
-    <string	name="source_17"	translatable="true">소스</string>
+    <string	name="source_17"	translatable="true">깃허브</string>
     <string	name="support_17"	translatable="true">텔레그램</string>
     <string	name="donate_17"	translatable="true">기부</string>
     <string	name="discord_17"	translatable="true">디스코드</string>
@@ -1669,20 +1669,20 @@
     <string	name="about_title_17"	translatable="true">정보</string>
 
     <string	name="list_auto_refresh_17"	translatable="true">자동 새로고침</string>
-    <string	name="list_auto_refresh_desc_17"	translatable="true">시작되면 새 리스트를 가져 옵니다.\n\n화면을 아래로 드래그하면 수동으로 가져 옵니다.</string>
+    <string	name="list_auto_refresh_desc_17"	translatable="true">앱을 시작하면 자동으로 새 리스트를 가져오며, 수동으로는 화면 아래로 드래그 합니다.</string>
     <string	name="force_auto_install_17"	translatable="true">자동 설치</string>
-    <string	name="force_auto_install_desc_17"	translatable="true">자동으로 새 버전을 다운로드하고 설치 합니다.</string>
-    <string	name="copy_url_mode_17"	translatable="true">URL 복사 모드</string>
-    <string	name="copy_url_mode_desc_17"	translatable="true">파일 URL 주소를 복사 합니다.\n\n수동 다운로드에만 적용 됩니다.</string>
+    <string	name="force_auto_install_desc_17"	translatable="true">자동으로 새 버전을 다운로드 후 설치 합니다.</string>
+    <string	name="copy_url_mode_17"	translatable="true">URL복사 모드</string>
+    <string	name="copy_url_mode_desc_17"	translatable="true">파일 URL 주소를 복사 합니다.\n\n직접 다운로드에만 적용 해주세요.</string>
     <string	name="hide_navigation_bar_17"	translatable="true">내비게이션 바 숨김</string>
     <string	name="show_themes_17"	translatable="true">테마</string>
 	<string	name="apk_location_17"	translatable="true">APK 저장위치</string>
-    <string	name="apk_location_desc_17"	translatable="true">다운로드 할 경로 지정(경로를 모르면 기본으로 두세요)\n\n안내: 저장공간 사용 권한 필요!, 권한 제한으로 외부 저장소(SD 카드) 미지원.</string>
-    <string	name="clear_directory_folders_17"	translatable="true">폴더 청소(삭제됨)</string>
-    <string	name="clear_directory_folders_desc_17"	translatable="true">터치하면 다운로드 된 모든 파일 삭제.</string>
+    <string	name="apk_location_desc_17"	translatable="true">다운로드 할 위치 지정(모를 경우 기본으로 놔두세요)\n\n안내: 저장공간 권한 필요!, 권한 제한으로 외부 저장소(SD 카드) 미지원.</string>
+    <string	name="clear_directory_folders_17"	translatable="true">폴더 청소</string>
+    <string	name="clear_directory_folders_desc_17"	translatable="true">터치하면 다운로드 한 모든 파일 삭제됩니다.</string>
     <string	name="reset_settings_17"	translatable="true">설정 초기화</string>
 
-    <string	name="about_sub_17"	translatable="true">광고제거됨 | 새 기능 | 프리덤</string>
+    <string	name="about_sub_17"	translatable="true">광고 제거됨 | 새 기능 | 프리덤</string>
     <string	name="xmanager_dev_17"	translatable="true">xManager 개발자</string>
     <string	name="spotify_mod_devs_17"	translatable="true">Spotify Mod 개발자</string>
     <string	name="telegram_support_team_17"	translatable="true">텔레그램/디스코드 지원팀</string>
@@ -1691,14 +1691,14 @@
     <string	name="mobilism_team_17"	translatable="true">모빌리즘 팀</string>
     <string	name="forum_team_17"	translatable="true">FORUM.APK-RELEASE.NET 팀</string>
 	<string	name="xspotify_team_17"	translatable="true">xSpotify 매니저 (관리자들)</string>
-    <string	name="contributors_17"	translatable="true">모든 기여자 덕분에 감사합니다! ❤️</string>
+    <string	name="contributors_17"	translatable="true">기여자들 덕분에 감사합니다!❤️</string>
 
-    <string	name="download_selected_17"	translatable="true">이 버전으로 계속 하시겠습니까?</string>
+    <string	name="download_selected_17"	translatable="true">이 버전으로 계속 할까요?</string>
     <string	name="download_ready_17"	translatable="true">패치 정보</string>
-    <string	name="download_ready_desc_17"	translatable="true">새 버전 APK로 교체 됩니다.</string>
+    <string	name="download_ready_desc_17"	translatable="true">새 버전으로 설치 됩니다.</string>
 	<string	name="downloading_file_17"	translatable="true">파일 다운로드...</string>
     <string	name="download_success_17"	translatable="true">다운로드 완료!</string>
-	<string	name="copy_url_desc_17"	translatable="true">이 버전으로 URL 주소를 복사 하시겠습니까?</string>
+	<string	name="copy_url_desc_17"	translatable="true">이 버전의 URL 주소를 복사 하시겠습니까?</string>
     <string	name="new_update_17"	translatable="true">새 버전 업데이트</string>
 
     <string	name="continue_1_17"	translatable="true">계속</string>
@@ -1713,15 +1713,15 @@
     <string	name="copy_url_17"	translatable="true">URL 주소 복사</string>
 
 	<string	name="show_support_17"	translatable="true">여러분의 지원을 기다립니다</string>
-    <string	name="show_support_desc_17"	translatable="true">우리 팀은 비-영리, 비-기업 입니다. 사용자에게 다운로드와 설치까지 쉽게 사용 가능한 앱을 만들겠습니다.\n\n우리 팀은 모든 시간과 최선의 노력을 쏟아 부어 완벽하게 만들고 있습니다. 우리는 할 수 있는 한 이 앱을 지원하기 위해 최선을 다할 것입니다.\n\n모든 기부금은 도움이 됩니다 대단히 감사합니다!</string>
+    <string	name="show_support_desc_17"	translatable="true">우리 팀은 비영리 기업 입니다. 사용자에게 다운로드와 설치까지 쉽게 사용 가능한 앱을 만들겠습니다.\n\n우리 팀은 모든 시간과 최선의 노력을 쏟아 부어 완벽하게 만들고 있습니다. 우리는 할 수 있는 한 이 앱을 지원하기 위해 최선을 다할 것입니다.\n\n모든 기부금은 도움이 됩니다 대단히 감사합니다!</string>
 
 	<string	name="maintenance_17"	translatable="true">유지 관리(설치된 앱)</string>
 	<string	name="maintenance_desc_17"	translatable="true">xManager 현재 사용할 수 없습니다. 나중에 응용 프로그램을 확인 해주세요.</string>
 	<string	name="thanks_17"	translatable="true">감사합니다!</string>
 	<string	name="language_17"	translatable="true">언어</string>
     <string	name="website_17"	translatable="true">웹 사이트</string>
-    <string	name="reddit_17"	translatable="true">레딧은</string>
-    <string	name="faq_17"	translatable="true">자주 질문</string>
+    <string	name="reddit_17"	translatable="true">레딧</string>
+    <string	name="faq_17"	translatable="true">질문 사항</string>
 	
 	<string	name="cloned_version_17"	translatable="true">복제 된 버전(베타)</string>
 	<string	name="cloned_version_desc_17"	translatable="true">이 기능을 활성화하면 패치 된 응용 프로그램의 복제 된 버전을 다운로드하여 설치할 수 있습니다.이것은 또한 당신이 사전 설치된 스포티 파이 응용 프로그램이 특히 설치 오류 또는 문제의 대부분을 해결합니다.</string>
@@ -1736,14 +1736,14 @@
 	<string	name="existing_patched_desc_17"	translatable="true">디렉터리 중 하나에 있는 기존 패치 파일입니다. 너는 무슨 활동을 하고 싶는가 하고자 했는가?</string>
 
 	<string	name="close_17"	translatable="true">닫기</string>
-	<string	name="cloned_17"	translatable="true">복제됨</string>
-	<string	name="ream_17"	translatable="true">다시/오전</string>
+	<string	name="cloned_17"	translatable="true">복제된 버전</string>
+	<string	name="ream_17"	translatable="true">일반/아몰레드</string>
 	<string	name="install_17"	translatable="true">설치</string>
 	<string	name="uninstall_17"	translatable="true">제거</string>
 	<string	name="ignore_17"	translatable="true">무시</string>
 	<string	name="delete_17"	translatable="true">삭제</string>
-	<string	name="uninstall_patched_17"	translatable="true">패치 제거</string>
-	<string	name="open_settings_17"	translatable="true">설정 열기</string>
+	<string	name="uninstall_patched_17"	translatable="true">패치 제거(선택)</string>
+	<string	name="open_settings_17"	translatable="true">설정 열기(선택)</string>
 	<string	name="open_patched_17"	translatable="true">패치 열기</string>
 	
 	<!--DUTCH LANGUAGE-->
