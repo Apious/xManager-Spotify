@@ -1733,7 +1733,7 @@
 	<string	name="installation_failed_ream_desc_17"	translatable="true">이유:이 장치에 설치된 현재 스포티 파이는 엑스 매니저에서 또는 우리 팀에서 직접 온하지 않았다.해결 방법:응용 프로그램의 현재 버전을 제거,엑스 매니저를 다시 시작하고 다시 시도하십시오. 문제가 지속되면 자주 묻는 질문을 확인하십시오.</string>
 	<string	name="installation_failed_cloned_desc_17"	translatable="true">이유:이 장치에 설치된 현재 복제 된 것은 엑스 매니저에서 또는 우리 팀에서 직접 오지 않았다.해결 방법:응용 프로그램의 현재 버전을 제거,엑스 매니저를 다시 시작하고 다시 시도하십시오. 문제가 지속되면 자주 묻는 질문을 확인하십시오.</string>
 	<string	name="existing_patched_17"	translatable="true">기존 패치</string>
-	<string	name="existing_patched_desc_17"	translatable="true">디렉터리 중 하나에 있는 기존 패치 파일입니다. 너는 무슨 활동을 하고 싶는가 하고자 했는가?</string>
+	<string	name="existing_patched_desc_17"	translatable="true">디렉토리에서 수정된 파일을 찾았습니다. 뭘 하시겠어요?</string>
 
 	<string	name="close_17"	translatable="true">닫기</string>
 	<string	name="cloned_17"	translatable="true">복제된 버전</string>
